@@ -1,6 +1,7 @@
-title: Minha primeira página
-author: Eduardo R V. de Moura
-email: eduardormoura78@gmail.com
+title: Minha página no GitHub
+author: Eduardo Moura
+email: edurdormoura78@gmail.com
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   
   Site sendo utilizado como ferramenta de aprendizado do GitHub.
@@ -13,4 +14,4 @@ twitter_username: your-twitter-handle # DO NOT include the @ character, or else 
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: minima
+
