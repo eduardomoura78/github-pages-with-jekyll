@@ -1,3 +1,4 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+Estou aprendendo a utilizar o GitHub.
+Com isso estou aprendendo a fazer uma página.
